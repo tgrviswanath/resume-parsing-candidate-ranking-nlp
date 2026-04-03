@@ -1,0 +1,34 @@
+Michael Chen
+Full Stack Developer
+
+Email: michael.chen@email.com | Phone: +1 (650) 555-0147
+LinkedIn: linkedin.com/in/michaelchen-dev | GitHub: github.com/mchen-dev
+
+SUMMARY
+Full stack developer with 6 years of experience building web applications and APIs. Strong expertise in React, Node.js, and cloud infrastructure. Passionate about clean code and developer experience.
+
+SKILLS
+Frontend: React, TypeScript, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS
+Backend: Node.js, Express, Python, FastAPI, GraphQL, REST APIs
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD
+Testing: Jest, Cypress, Pytest, TDD
+
+EXPERIENCE
+Senior Full Stack Developer — StartupXYZ, San Francisco
+March 2021 – Present
+- Built React dashboard serving 50,000 daily active users with sub-200ms load times
+- Designed microservices architecture reducing API response time by 45%
+- Led team of 3 developers, conducted code reviews and mentoring sessions
+
+Full Stack Developer — WebAgency Ltd., London
+June 2018 – February 2021
+- Developed 15+ client websites and web applications using React and Node.js
+- Implemented automated testing pipeline reducing bug escape rate by 60%
+- Integrated third-party APIs including Stripe, Twilio, and Google Maps
+
+EDUCATION
+BSc Computer Science — Imperial College London, 2018
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

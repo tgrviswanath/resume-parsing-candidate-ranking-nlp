@@ -1,0 +1,20 @@
+We are looking for a Senior Full Stack Developer to join our growing engineering team.
+
+Requirements:
+- 5+ years of experience in full stack web development
+- Strong proficiency in React and TypeScript for frontend development
+- Backend experience with Node.js, Python, or similar languages
+- Experience with REST APIs and GraphQL
+- Proficiency with cloud platforms (AWS, GCP, or Azure)
+- Experience with Docker and Kubernetes
+- Strong knowledge of SQL and NoSQL databases (PostgreSQL, MongoDB)
+- Experience with CI/CD pipelines and automated testing
+- Excellent communication skills and ability to work in an agile team
+
+Nice to have:
+- Experience with Next.js or Vue.js
+- Knowledge of microservices architecture
+- Open source contributions
+- Experience mentoring junior developers
+
+We offer competitive salary, equity, flexible working, and a collaborative team environment.
